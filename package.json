@@ -12,7 +12,8 @@
     "koa": "^1.2.4",
     "koa-bodyparser": "^2.3.0",
     "koa-session": "^3.4.0",
-    "koa-static": "^2.1.0"
+    "koa-static": "^2.1.0",
+    "nunjucks": "^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",
